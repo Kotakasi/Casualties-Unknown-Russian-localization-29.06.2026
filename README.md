@@ -69,5 +69,5 @@
 ---
 
 <div align="center">
-<sub>Unofficial Russian fan-translation of <b>Casualties: Unknown</b> by Orsoniks. Place <code>RU.json</code> into <code>CasualtiesUnknown_Data/Lang</code> next to <code>EN.json</code>.</sub>
+<sub>Unofficial Russian fan-translation of <b>Casualties: Unknown</b> by Orsoniks. Place <code>RU-Kotakasi.json</code> into <code>CasualtiesUnknown_Data/Lang</code> next to <code>EN.json</code>.</sub>
 </div>
