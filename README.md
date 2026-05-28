@@ -1,6 +1,6 @@
 <div align="center">
 
-![Casualties: Unknown — Русская локализация by Kotakasi 29.06.2026](assets/banner.svg)
+![Casualties: Unknown — Русская локализация by Kotakasi 29.06.2026](banner.svg)
 
 # Casualties: Unknown — Русская локализация
 
