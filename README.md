@@ -8,7 +8,7 @@
 
 ![Игра](https://img.shields.io/badge/игра-Casualties%3A%20Unknown-1b1b1b)
 ![Язык](https://img.shields.io/badge/язык-Русский-2b6cb0)
-![Версия перевода](https://img.shields.io/badge/перевод-v1.0-2f855a)
+![Версия перевода](https://img.shields.io/badge/перевод-v7.0.1-2f855a)
 ![Формат](https://img.shields.io/badge/формат-JSON-555)
 ![Автор](https://img.shields.io/badge/перевод-Kotakasi-805ad5)
 
