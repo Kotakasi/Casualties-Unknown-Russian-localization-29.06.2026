@@ -12,7 +12,7 @@
 ![Формат](https://img.shields.io/badge/формат-JSON-555)
 ![Автор](https://img.shields.io/badge/перевод-Kotakasi-805ad5)
 
-[Установка](#-установка) · [Что переведено](#-что-переведено) · [Обратная связь](#-обратная-связь)
+[Установка](#-установка) · [Что переведено](#-что-переведено) · [Обратная связь](#-обратная-связь) · [📥 Скачать русификатор](https://www.playground.ru/casualties_unknown/file/casualties_unknown_absolyutnyj_rusifikator_v_7_0_1_coop_05_06_2026-1847915)
 
 </div>
 
@@ -22,7 +22,7 @@
 1. **Перейдите в папку с игрой «Casualties: Unknown».**
    Для Steam: **Библиотека → выберите «Casualties: Unknown» → значок шестерёнки справа → «Управление» → «Посмотреть локальные файлы».**
 
-2. **Переместите содержимое архива `CasualtiesUnknown_RusTranslator_by_Kotakasi_v6.1.zip` в папку с игрой (там, где находится CasualtiesUnknown.exe).**
+2. **Переместите содержимое архива `CasualtiesUnknown_RusTranslator_by_Kotakasi_v7.0.1.zip` в папку с игрой (там, где находится CasualtiesUnknown.exe).**
 
 3. Запустите игру. Если все правильно установлено, то снизу слева появится мой тост в виде "Русификатор: Kotakasi" с флагом России.
 
