@@ -1,5 +1,5 @@
 {
- "version": "7.0.5",
- "changelog": "- Добавлен полный перевод мода на протезы (Prosthetics): протезы, нейромоды, импланты-чипы и панель кибернетики.",
+ "version": "7.0.6",
+ "changelog": "- Добавлен перевод предметов мода на протезы (Prosthetics): названия и описания всех протезов, нейромод-чипов, костных пил, вилки и ящика с нейромодом.",
  "url": "https://github.com/Kotakasi/Casualties-Unknown-Russian-localization-29.06.2026/releases/download/Casualties-Unknown/update.zip"
 }
