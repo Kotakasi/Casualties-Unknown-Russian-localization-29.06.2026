@@ -1,7 +1,11 @@
 <div align="center">
 
 ![Casualties: Unknown — Русская локализация by Kotakasi 01.06.2026](banner.svg)
-
+<p align="center">
+  <a href="https://www.playground.ru/casualties_unknown/file/casualties_unknown_rusifikator_absolyutnyj_s_avto_obnovleniem_ustanovka_odin_raz_perevod_modov-1847915">
+    <img src="https://img.shields.io/badge/⬇_Скачать_русификатор-2ea44f?style=for-the-badge&logoColor=white" alt="Скачать русификатор" height="50">
+  </a>
+</p>
 # Casualties: Unknown — Русская локализация
 
 **Неофициальный, лучший художественный русский перевод игры _Casualties: Unknown_ (Scav Prototype) от Orsoniks.**
