@@ -4,7 +4,7 @@
 
 # Casualties: Unknown — Русская локализация
 
-**Неофициальный, художественный русский перевод игры _Casualties: Unknown_ (Scav Prototype) от Orsoniks.**
+**Неофициальный, лучший художественный русский перевод игры _Casualties: Unknown_ (Scav Prototype) от Orsoniks.**
 
 ![Игра](https://img.shields.io/badge/игра-Casualties%3A%20Unknown-1b1b1b)
 ![Язык](https://img.shields.io/badge/язык-Русский-2b6cb0)
