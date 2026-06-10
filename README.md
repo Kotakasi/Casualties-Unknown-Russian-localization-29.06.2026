@@ -26,7 +26,7 @@ Casualties: Unknown — Русская локализация
 1. **Перейдите в папку с игрой «Casualties: Unknown».**
    Для Steam: **Библиотека → выберите «Casualties: Unknown» → значок шестерёнки справа → «Управление» → «Посмотреть локальные файлы».**
 
-2. **Переместите содержимое архива `CasualtiesUnknown_RusTranslator_by_Kotakasi_v7.0.1.zip` в папку с игрой (там, где находится CasualtiesUnknown.exe).**
+2. **Переместите содержимое архива `CasualtiesUnknown_RusTranslator_by_Kotakasi.zip` в папку с игрой (там, где находится CasualtiesUnknown.exe).**
 
 3. Запустите игру. Если все правильно установлено, то снизу слева появится мой тост в виде "Русификатор: Kotakasi" с флагом России.
 
